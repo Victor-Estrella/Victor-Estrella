@@ -13,4 +13,5 @@ Linguagens e Frameworks: Tenho experiência sólida em HTML, CSS, JavaScript e T
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Victor-Estrella&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Estrella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/Victor-Estrella/Victor-Estrella/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Victor-Estrella/Victor-Estrella/blob/output/github-snake-dark.svg)
+
