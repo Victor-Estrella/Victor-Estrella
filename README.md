@@ -15,7 +15,29 @@ Utilizo Tailwind CSS e StyleSheet (CSS-in-JS no React Native) para design rápid
 Estou focado em aprimorar minhas habilidades em desenvolvimento web com React, aprofundando o consumo de APIs e boas práticas de usabilidade para aplicações com performance e escalabilidade.
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+<div>
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;   
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br></br>
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Victor-Estrella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
