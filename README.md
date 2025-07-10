@@ -30,7 +30,6 @@ Estou focado em aprimorar minhas habilidades em desenvolvimento web com React, a
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<br></br>
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
